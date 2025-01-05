@@ -1,0 +1,22 @@
+{
+  "name": "metodosrest",
+  "version": "1.0.0",
+  "description": "Proyecto para los metodos REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulDiaz054/MetodosRest.git"
+  },
+  "author": "Paul Diaz, David Ipiales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulDiaz054/MetodosRest/issues"
+  },
+  "homepage": "https://github.com/PaulDiaz054/MetodosRest#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
